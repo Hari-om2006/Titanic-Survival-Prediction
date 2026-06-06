@@ -52,3 +52,21 @@ Accuracy: 78.36%
 ### Fare Distribution
 
 ![Fare Distribution](images/Fare_price_distribution.png)
+
+## Results
+
+- Logistic Regression Accuracy: 78.36%
+
+### Key Findings
+
+- Female passengers had a significantly higher survival rate.
+- First-class passengers survived more often than third-class passengers.
+- Age values were successfully imputed using passenger class information.
+- Fare distribution was heavily right-skewed.
+
+## Confusion Matrix
+
+| Actual / Predicted | Not Survived | Survived |
+|-------------------|--------------|-----------|
+| Not Survived      | 134          | 20        |
+| Survived          | 38           | 76        |
