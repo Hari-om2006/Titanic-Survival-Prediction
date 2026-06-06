@@ -34,3 +34,21 @@ Accuracy: 78.36%
 - Logistic Regression
 - Confusion Matrix
 - Accuracy Evaluation
+
+## Visualizations
+
+### Missing Values Heatmap
+
+![Missing Values Heatmap](images/NaN_value.png)
+
+### Survival by Gender
+
+![Survival by Gender](images/survival_countplot_gender_wise.png)
+
+### Survival by Passenger Class
+
+![Survival by Passenger Class](images/survival_Passenger_class_wise.png)
+
+### Fare Distribution
+
+![Fare Distribution](images/Fare_price_distribution.png)
